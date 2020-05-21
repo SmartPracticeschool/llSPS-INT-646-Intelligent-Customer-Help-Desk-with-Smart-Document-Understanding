@@ -14,3 +14,5 @@ At the end this Chatbot is integrated to a webpage with the help of "Node-Red" w
 "Watson Assistant->Watson Discovery->Cloud Function"
 use of these major resources is done 
 And finally a user friendly Chatbot was built.
+
+https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2
