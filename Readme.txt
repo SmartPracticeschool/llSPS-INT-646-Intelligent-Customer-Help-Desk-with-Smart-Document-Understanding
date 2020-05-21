@@ -18,3 +18,10 @@ And finally a user friendly Chatbot was built.
 The Node-Red flow : https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2 
 
 The ChatBot       : https://helpdesk-nodered.eu-gb.mybluemix.net/ui/#!/0?socketid=t-16t-JJU_8pMhBqAAAX
+
+As the data (Document) fed is of Heater,
+Try following Questions :
+"How can I turn on the heater"
+"How can I access the settings"
+"How can I configure it through wifi"
+etc...
