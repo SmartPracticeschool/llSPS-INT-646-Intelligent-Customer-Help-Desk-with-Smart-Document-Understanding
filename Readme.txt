@@ -2,7 +2,7 @@ Intelligent Customer Help Desk with Smart Document Understanding
 
 In this project,
 I have created a AI powered chatbot using IBM Watson Assistant and integrated it with Node-Red.
-This Chatbot helps user in efficient way to fing the quieries regarding the device (Here device used is Heater-"ecobee3").
+This Chatbot helps user in efficient way to fing the queries regarding the device (Here device used is Heater-"ecobee3").
 
 At a certain point a Chatbot drain out of responses and asks user that if they want to interact with the company representative, So instead of redirecting user to the representative this AI powered Chatbot give an ease to the user by providing the information of the device.
 
