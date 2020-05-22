@@ -8,7 +8,7 @@ At a certain point a Chatbot drain out of responses and asks user that if they w
 
 This is made possible due to use of "Watson Discovery" during the Developement of Chatbot.
 Watson Discovery keeps the tracks of keywords entered by user and find out the most appropriate Content from the document provided, and deliveres it to user.
-So in this way this Chatbot help to minimize your time to go through all the manual and helps by giving a most precise informatin related to the query.
+So in this way this Chatbot help to minimize your time to go through all the manual and helps by giving a most precise information related to the query.
 
 At the end this Chatbot is integrated to a webpage with the help of "Node-Red" where 
 "Watson Assistant->Watson Discovery->Cloud Function"
