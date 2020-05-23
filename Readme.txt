@@ -19,6 +19,8 @@ The Node-Red flow : https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76
 
 The ChatBot       : https://helpdesk-nodered.eu-gb.mybluemix.net/ui/#!/0?socketid=t-16t-JJU_8pMhBqAAAX
 
+The tutorial      : https://youtu.be/uAdiBir8d6U
+
 As the data (Document) fed is of Heater,
 Try following Questions :
 "How can I turn on the heater"
